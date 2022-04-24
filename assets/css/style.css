@@ -128,6 +128,31 @@ nav a:hover {
     float: right;
 }
 
+/* facilities page */
+
+#facilities {
+    padding-top: 100px;
+    width: 100%;
+    height: 1200px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+
+.grid-item {
+    border: none;
+    font-size: 30px;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+
+
 /* Footer */
 footer {
     width: 100%;
