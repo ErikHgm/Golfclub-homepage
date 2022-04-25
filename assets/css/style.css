@@ -68,7 +68,7 @@ nav a:hover {
 #hero {
     height: 600px;
     width: 100%;
-    background: url(../images/hero.jpg) center / cover no-repeat;
+    background: url(../images/hero.jpg) center /cover no-repeat;
 }
 
 /* info boxes section */
@@ -110,22 +110,46 @@ nav a:hover {
 #links-boxes-section {
     width: 100%;
     height: 500px;
-    background-color: rgb(238, 238, 238, );
+}
+
+.links-box-wrap {
+    width: 50%;
+    height: 500px;
+    border: 1px solid #333;
+    box-sizing: border-box;
+    overflow: hidden;
 }
 
 .links-box {
     width: 50%;
     height: 500px;
-    border: 1px solid #333;
-    box-sizing: border-box;
+    margin-bottom: 100px;
+    position: relative;
 }
+
+.links-box h2 {
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    color: white;
+    text-align: center;
+    font-size: 400%;
+    opacity: 1;
+}
+.links-box h2:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s;
+}
+
 
 #links-box-facilites {
     float: left;
+    background: url(../images/left_linkbox_bg.jpg) center / cover no-repeat;
 }
 
 #links-box-booking {
     float: right;
+    background: url(../images/right-linkbox_bg.jpg) center / cover no-repeat;
 }
 
 /* facilities page */
@@ -188,7 +212,6 @@ input[type=submit] {
     font-size: 1.5em;
     padding: 7px;
     background-color: #bfa614;
-
 }
 
 input[type=submit]:hover {
