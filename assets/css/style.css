@@ -157,20 +157,22 @@ nav a:hover {
     width: 100%;
     height: 800px;
     padding-top: 200px;
+    background:url(../images/bookingbg.jpg) center / cover no-repeat;
 }
 
 fieldset {
     border-radius: 30px;
     border: none;
     width: 400px;
-    height: 500px;
+    height: 600px;
     margin: 0 auto;
-    background-color: white;
+    background-color: #333;
     opacity: 0.9;
     padding: 50px;
+    color: rgb(207, 176, 19);
 }
 
-input {
+input, select {
     margin: 5px 0 30px;
     display: block;
     width: 90%;
@@ -180,6 +182,11 @@ input {
     background-color: #f1f1f1;
 }
 
+input [submit]:hover {
+    background-color: #333;
+
+}
+
 /* Footer */
 footer {
     width: 100%;
@@ -187,4 +194,13 @@ footer {
     background-color: #333;
     padding: 20px;
     clear: both;
+}
+
+@media screen and (max-width: 700px) {
+
+    .grid-container {
+    grid-template-columns: 100%;
+   
+}
+
 }
