@@ -146,12 +146,11 @@ nav a:hover {
 
 
 #links-box-facilites {
-    float: left;
+    
     background: url(../images/left_linkbox_bg.jpg) center / cover no-repeat;
 }
 
 #links-box-booking {
-    float: right;
     background: url(../images/right-linkbox_bg.jpg) center / cover no-repeat;
 }
 
@@ -265,10 +264,5 @@ footer {
     .links-box {
         width: 100%;
     }
-    
-    #links-box-booking {
-        float: left;
-        clear: left;
-    }
-    
+
 }
