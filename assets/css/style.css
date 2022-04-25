@@ -97,8 +97,8 @@ nav a:hover {
 }
 
 .info-box-icon {
-    width: 100px;
-    height: 100px;
+    width: 70px;
+    height: 70px;
     margin: 30px 30%;
 }
 
@@ -158,22 +158,40 @@ nav a:hover {
 #facilities {
     padding-top: 100px;
     width: 100%;
-    height: 1200px;
+    height: auto;
+    background-color: whitesmoke;
+
 }
 
 .grid-container {
     display: grid;
     grid-template-columns: 50% 50%;
-    background-color: whitesmoke;
     padding: 10px;
+    padding-bottom: 100px;
 }
 
 .grid-item {
     border: none;
-    font-size: 30px;
+    font-size: 15px;
     text-align: center;
+    height: 400px;
     box-sizing: border-box;
     margin: 10px;
+    padding: 20px;
+
+}
+
+#grid-item-clubhouse {
+    background: url(../images/clubhouse.jpeg) center / cover no-repeat;
+}
+
+#grid-item-proshop {
+    background: url(../images/proshop.jpeg) center / cover no-repeat;
+}
+
+#grid-item-restaurant {
+    background: url(../images/restaurant.jpeg) center / cover no-repeat;
+
 }
 
 /* booking page */
@@ -212,17 +230,19 @@ select {
 input[type=submit] {
     font-size: 1.5em;
     padding: 7px;
-    background-color: #bfa614;
+    background-color: rgb(207, 176, 19);
+    color: #f1f1f1;
+
 }
 
 input[type=submit]:hover {
-    background-color: rgb(207, 176, 19);
-    color: #f1f1f1;
+    background-color: #bfa614;
+    color: #333;
 }
 
 input[type=submit]:active {
     background-color: rgb(207, 176, 19);
-    color: #333;
+    color: #f1f1f1;
 }
 
 /* Footer */
@@ -234,7 +254,7 @@ footer {
     clear: both;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 900px) {
 
     .grid-container {
         grid-template-columns: 100%;
