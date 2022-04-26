@@ -75,27 +75,31 @@ nav a:hover {
 #info-boxes-section {
     width: 100%;
     height: auto;
-    display: flex;
-    flex-wrap: wrap;
     margin-bottom: 150px;
+}
+
+.flex-info-box-container {
+    width: 100%;
+    height: auto;
+    display: flex;
 }
 
 #info-boxes-section h2 {
     text-align: center;
     font-size: 300%;
     color: black;
-    margin: 50px 50%;
+    margin: 50px;
 
 
 }
 
 .info-box {
-    width: 30%;
+    width: 33%;
     height: 400px;
     background-color: white;
-    border-radius: 45px;
+    border-radius: 15px;
     box-shadow: 1px 1px 17px 2px #dddedb;
-    margin: 20px;
+    margin: 15px;
 }
 
 .info-box-icon {
@@ -123,7 +127,7 @@ nav a:hover {
 .links-box h2 {
     position: absolute;
     top: 40%;
-    left:10%;
+    left: 10%;
     right: 10%;
     text-align: center;
     color: white;
@@ -137,7 +141,7 @@ nav a:hover {
 
 
 #links-box-facilites {
-    
+
     background: url(../images/left_linkbox_bg.jpg) center / cover no-repeat;
 }
 
@@ -252,13 +256,29 @@ footer {
         grid-template-columns: 100%;
 
     }
+
+    #grid-item-clubhouse {
+        order: -1;
+    }
+
+    #restaurant-div {
+        order: 3;
+    }
+
     .links-box {
         width: 100%;
     }
-   
-@media screen and (max-width: 700px) {
-    .info-box {
-        width: 70%;
+
+    @media screen and (max-width: 780px) {
+        .flex-info-box-container {
+            width: 90%;
+            flex-direction: column;
+            padding-left: 5%;
+        }
+        .info-box{
+            width: 75%;
+            margin: 0 auto 30px;
+        
+        }
     }
-}
 }
