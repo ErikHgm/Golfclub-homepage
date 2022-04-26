@@ -30,11 +30,13 @@ header {
     line-height: 80px;
 }
 
-#logo h2 {
-    color: white;
+#logo h1 {
     font-family: cursive;
     font-size: 1.8em;
-    color: #b79c00;
+    color: #BEB279;
+}
+#logo a{
+    text-decoration: none;
 }
 
 /* navigation menu */
@@ -57,13 +59,17 @@ header {
 
 #navbar a {
     text-decoration: none;
-    color: white;
+    color: whitesmoke;
     letter-spacing: 2px;
     
 }
 
 #navbar a:hover {
-    text-decoration: underline;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.navactive {
+    border-bottom: 1px solid whitesmoke;
 }
 
 /* hero section */
