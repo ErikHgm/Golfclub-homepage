@@ -9,6 +9,7 @@ html,
 body {
     overflow-x: hidden;
     overflow-y: auto;
+    font-family: Helvetica, sans-serif;
 }
 
 /* header and logo */
@@ -31,6 +32,9 @@ header {
 
 #logo h2 {
     color: white;
+    font-family: cursive;
+    font-size: 1.8em;
+    color: #b79c00;
 }
 
 /* navigation menu */
@@ -46,15 +50,16 @@ header {
 }
 
 #navbar li {
-    font-size: 1.2em;
+    font-size: 1.25em;
     margin: 0 0.5em;
     display: inline-block;
 }
 
 #navbar a {
     text-decoration: none;
-    text-transform: uppercase;
     color: white;
+    letter-spacing: 2px;
+    
 }
 
 #navbar a:hover {
@@ -256,6 +261,9 @@ footer {
     width: 30%;
     height: 90%;
     border: 1px solid white;
+    color: #f1f1f1;
+    font-size: 1.5em;
+
 }
 #map{
     width: 50%;
@@ -272,6 +280,7 @@ footer {
     color: #f1f1f1;
     padding: 5%;
     list-style: none;
+    display: inline;
 }
 @media screen and (max-width: 900px) {
 
