@@ -276,25 +276,26 @@ footer {
 .footer-container{
     width: 100%;
     height: 90%;
-    border: 1px solid white;
-    color: #f1f1f1;
-    font-size: 1.5em;
-
 }
 
 #social-links{
     height: 150px;
-    width: 80%;
+    width: 60%;
     margin: 0 auto;
-    color: whitesmoke;
     
 
 }
 #social-links li{
-    color: #f1f1f1;
     padding: 5%;
     list-style: none;
     display: inline;
+}
+
+#social-links i{
+    font-size: 100%;
+    margin: 1%;
+    padding: 5%;
+    color: #BEB279;
 }
 @media screen and (max-width: 900px) {
 
