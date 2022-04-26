@@ -9,7 +9,7 @@ html,
 body {
     overflow-x: hidden;
     overflow-y: auto;
-    font-family: Helvetica, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* header and logo */
@@ -100,8 +100,6 @@ header {
     font-size: 300%;
     color: black;
     margin: 50px;
-
-
 }
 
 .info-box {
@@ -116,7 +114,7 @@ header {
 
 .info-box-cover {
     width: 100%;
-    height: 50%;
+    height: 60%;
     
 }
 .info-box-img {
@@ -124,8 +122,14 @@ header {
     height: 100%;
 }
 .info-box-list{
-    margin: 20px auto;
-    font-size: 1.9em;
+    padding: 5%;
+    font-size: 1.3em;
+    text-align: center;
+    color:#cab448
+}
+.info-box li{
+    margin: 5%;
+    list-style: none;
 }
 
 /* links boxes section */
