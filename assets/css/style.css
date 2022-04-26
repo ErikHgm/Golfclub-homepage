@@ -314,6 +314,11 @@ footer {
     .links-box {
         width: 100%;
     }
+    .info-box-cover {
+        width: 100%;
+        height: 50%;
+        
+    }
 
     @media screen and (max-width: 780px) {
         .flex-info-box-container {
@@ -338,6 +343,11 @@ footer {
         header {
             height: 110px;
         }
-
+        .info-box-cover {
+            width: 100%;
+            height: 60%;
+            
+        }
+        
     }
 }
