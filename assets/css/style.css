@@ -32,7 +32,6 @@ header {
 
 #logo h2 {
     color: white;
-
 }
 
 /* navigation menu */
@@ -273,10 +272,22 @@ footer {
             flex-direction: column;
             padding-left: 5%;
         }
-        .info-box{
+
+        .info-box {
             width: 75%;
             margin: 0 auto 30px;
-        
+
+        }
+
+        #navbar {
+            float: left;
+            clear: left;
+            line-height: 20px;
+            margin: 0 0 20px 10px;
+        }
+
+        header {
+            height: 110px;
         }
     }
 }
