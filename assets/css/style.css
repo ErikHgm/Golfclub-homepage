@@ -32,7 +32,7 @@ header {
 
 #logo h1 {
     font-family: cursive;
-    font-size: 1.8em;
+    font-size: 2.2em;
     color: #BEB279;
 }
 #logo a{
@@ -85,6 +85,9 @@ header {
     height: auto;
     margin-bottom: 150px;
 }
+#info-boxes-section h2{
+    font-family: cursive;
+}
 
 .flex-info-box-container {
     width: 100%;
@@ -108,12 +111,21 @@ header {
     border-radius: 15px;
     box-shadow: 1px 1px 17px 2px #dddedb;
     margin: 15px;
+    overflow: hidden;
 }
 
-.info-box-icon {
-    width: 70px;
-    height: 70px;
-    margin: 30px 30%;
+.info-box-cover {
+    width: 100%;
+    height: 50%;
+    
+}
+.info-box-img {
+    width: 100%;
+    height: 100%;
+}
+.info-box-list{
+    margin: 20px auto;
+    font-size: 1.9em;
 }
 
 /* links boxes section */
@@ -256,30 +268,22 @@ footer {
     padding: 20px;
     clear: both;
 }
-#flex-footer-container{
-    width: 90%;
-    height: 90%;
-    display: flex;
-    padding-left: 5%;
 
-}
-.footer-box{
-    width: 30%;
+.footer-container{
+    width: 100%;
     height: 90%;
     border: 1px solid white;
     color: #f1f1f1;
     font-size: 1.5em;
 
 }
-#map{
-    width: 50%;
-    height: auto;
-}
+
 #social-links{
     height: 150px;
-    width: 50%;
-    float: right;
+    width: 80%;
+    margin: 0 auto;
     color: whitesmoke;
+    
 
 }
 #social-links li{
