@@ -245,7 +245,28 @@ footer {
     padding: 20px;
     clear: both;
 }
+#flex-footer-container{
+    width: 90%;
+    height: 90%;
+    padding-left: 5%;
 
+}
+#map{
+    width: 50%;
+    height: auto;
+}
+#social-links{
+    height: 150px;
+    width: 50%;
+    float: right;
+    color: whitesmoke;
+
+}
+#social-links li{
+    color: #f1f1f1;
+    padding: 5%;
+    list-style: none;
+}
 @media screen and (max-width: 900px) {
 
     .grid-container {
