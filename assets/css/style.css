@@ -248,8 +248,14 @@ footer {
 #flex-footer-container{
     width: 90%;
     height: 90%;
+    display: flex;
     padding-left: 5%;
 
+}
+.footer-box{
+    width: 30%;
+    height: 90%;
+    border: 1px solid white;
 }
 #map{
     width: 50%;
