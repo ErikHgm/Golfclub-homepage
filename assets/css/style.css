@@ -35,30 +35,30 @@ header {
 }
 
 /* navigation menu */
-#nav {
+#navbar {
     float: right;
     line-height: 80px;
     margin-right: 20px;
 }
 
-nav ul {
+#navbar ul {
     list-style: none;
     text-align: center;
 }
 
-nav li {
+#navbar li {
     font-size: 1.2em;
     margin: 0 0.5em;
     display: inline-block;
 }
 
-nav a {
+#navbar a {
     text-decoration: none;
     text-transform: uppercase;
     color: white;
 }
 
-nav a:hover {
+#navbar a:hover {
     text-decoration: underline;
 }
 
