@@ -12,7 +12,7 @@ body {
     overflow-x: hidden;
     overflow-y: auto;
     font-family: 'kalam', cursive;
- 
+
 }
 
 a,
@@ -23,7 +23,7 @@ h3 {
 h1,
 h2 {
     font-family: 'charm', cursive;
-    color:#6E6434;
+    color: #6E6434;
 }
 
 /* header and logo */
@@ -102,13 +102,15 @@ header {
     text-transform: uppercase;
     font-family: Arial, Helvetica, sans-serif;
     color: #6E6434;
-    
+
 }
-hr{
+
+hr {
     width: 70%;
     border-top: 1px dotted #6E6434;
     margin: 0 auto 25px;
 }
+
 #info-boxes-section {
     width: 100%;
     height: auto;
@@ -220,7 +222,6 @@ hr{
 }
 
 .grid-item {
-    border: none;
     font-size: 1.25em;
     text-align: center;
     height: 400px;
@@ -234,13 +235,12 @@ hr{
     background: url(../images/clubhouse.jpeg) center / cover no-repeat;
 }
 
-#grid-item-proshop {
-    background: url(../images/proshop.jpeg) center / cover no-repeat;
-}
-
 #grid-item-restaurant {
     background: url(../images/restaurant.jpeg) center / cover no-repeat;
+}
 
+#grid-item-proshop {
+    background: url(../images/proshop.jpeg) center / cover no-repeat;
 }
 
 /* booking page */
@@ -355,7 +355,7 @@ footer {
         order: -1;
     }
 
-    #restaurant-div {
+    #proshop-div {
         order: 3;
     }
 
@@ -375,6 +375,7 @@ footer {
         header {
             height: 110px;
         }
+
         hr {
             width: 60%;
         }
