@@ -35,7 +35,8 @@ header {
     font-size: 2.2em;
     color: #BEB279;
 }
-#logo a{
+
+#logo a {
     text-decoration: none;
 }
 
@@ -61,7 +62,7 @@ header {
     text-decoration: none;
     color: whitesmoke;
     letter-spacing: 2px;
-    
+
 }
 
 #navbar a:hover {
@@ -85,7 +86,8 @@ header {
     height: auto;
     margin-bottom: 150px;
 }
-#info-boxes-section h2{
+
+#info-boxes-section h2 {
     font-family: cursive;
 }
 
@@ -115,19 +117,22 @@ header {
 .info-box-cover {
     width: 100%;
     height: 60%;
-    
+
 }
+
 .info-box-img {
     width: 100%;
     height: 100%;
 }
-.info-box-list{
+
+.info-box-list {
     padding: 5%;
     font-size: 1.3em;
     text-align: center;
-    color:#cab448
+    color: #cab448
 }
-.info-box li{
+
+.info-box li {
     margin: 5%;
     list-style: none;
 }
@@ -219,49 +224,67 @@ header {
     width: 100%;
     height: 800px;
     padding-top: 200px;
-    background: url(../images/bookingbg.jpg) center / cover no-repeat;
+    background: url(../images/bookingbg.jpg) center / cover no-repeat fixed;
+}
+
+#form-container {
+    border-radius: 30px;
+    width: 50%;
+    margin: 0 auto;
+    height: 600px;
+    background-color: black;
+    opacity: 0.7;
+
+}
+
+form {
+    color: white;
+    text-transform: uppercase;
+    font-size: 0.85em;
 }
 
 fieldset {
-    border-radius: 30px;
-    border: none;
-    width: 400px;
-    height: 600px;
-    margin: 0 auto;
-    background-color: #333;
-    opacity: 0.9;
-    padding: 50px;
-    color: rgb(207, 176, 19);
+    margin: 0 60px 0 40px;
+}
+
+legend {
+    color: #DBCE8C;
+    margin: 20px 0;
+    text-align: center;
+    font-size: 1.5em;
+    padding-top: 20px;
 }
 
 input,
 select {
-    margin: 5px 0 30px;
+    margin: 5px 0 20px;
+    border: 1px solid #DBCE8C;
     display: block;
-    width: 90%;
+    width: 100%;
     padding: 10px;
-    border: 1px solid #333;
     border-radius: 4px;
-    background-color: #f1f1f1;
     font-size: 1em;
+    background: transparent;
+    color: whitesmoke;
+
 }
 
 input[type=submit] {
     font-size: 1.5em;
-    padding: 7px;
-    background-color: rgb(207, 176, 19);
-    color: #f1f1f1;
+    padding: 10px;
+    background-color: #DBCE8C;
+    color: #333;
 
 }
 
 input[type=submit]:hover {
     background-color: #bfa614;
-    color: #333;
+    color: #f1f1f1;
 }
 
 input[type=submit]:active {
-    background-color: rgb(207, 176, 19);
-    color: #f1f1f1;
+    background-color: #DBCE8C;
+    color: #333;
 }
 
 /* Footer */
@@ -273,31 +296,41 @@ footer {
     clear: both;
 }
 
-.footer-container{
+.footer-container {
     width: 100%;
     height: 90%;
 }
 
-#social-links{
+#social-links {
     height: 150px;
     width: 60%;
     margin: 0 auto;
-    
+
 
 }
-#social-links li{
+
+#social-links li {
     padding: 5%;
     list-style: none;
     display: inline;
 }
 
-#social-links i{
+#social-links i {
     font-size: 100%;
     margin: 1%;
     padding: 5%;
     color: #BEB279;
 }
+
 @media screen and (max-width: 900px) {
+    .links-box {
+        width: 100%;
+    }
+
+    .info-box-cover {
+        width: 100%;
+        height: 50%;
+    }
 
     .grid-container {
         grid-template-columns: 100%;
@@ -312,16 +345,23 @@ footer {
         order: 3;
     }
 
-    .links-box {
-        width: 100%;
-    }
-    .info-box-cover {
-        width: 100%;
-        height: 50%;
-        
+    #form-container {
+        width: 60%;
     }
 
     @media screen and (max-width: 780px) {
+
+        #navbar {
+            float: left;
+            clear: left;
+            line-height: 20px;
+            margin: 0 0 20px 10px;
+        }
+
+        header {
+            height: 110px;
+        }
+
         .flex-info-box-container {
             width: 90%;
             flex-direction: column;
@@ -334,21 +374,16 @@ footer {
 
         }
 
-        #navbar {
-            float: left;
-            clear: left;
-            line-height: 20px;
-            margin: 0 0 20px 10px;
-        }
 
-        header {
-            height: 110px;
-        }
         .info-box-cover {
             width: 100%;
-            height: 60%;
-            
+            height: 65%;
+
         }
-        
+
+        #form-container {
+            width: 80%;
+        }
+
     }
 }
