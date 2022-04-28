@@ -1,6 +1,6 @@
 <h1 align="center">Los Naranjos Golfclub Homepage</h1>
 
-![Screen Mockup](assets/images/screenmockups.png)
+![Screen Mockup](assets/images/readme_images/screenmockups.png)
 
 This website is the homepage for a golfclub called Los Naranjos in southern Spain. The main goal for this website is to inspire both new and active golfers to play at the club and for the club to be able to effectively market itself online and showcase its various options of amenities, accommodations and practice areas towards those who are interested to play golf. It also has the convenience built in so that golfers can make their reservation and book a start time by themselves online.  
 
@@ -28,8 +28,41 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 
   
 
-## Features
+## Existing Features
 
+
+- ### Header and Navigation Bar
+    - Text 
+![Header and navigation](assets/images/readme_images/header.png)
+
+- ### Hero image
+    - Text 
+![Hero image](assets/images/readme_images/hero.png)
+
+
+- ### Welcome sign
+    - Text 
+![Welcome sign](assets/images/readme_images/welcomesign.png)
+
+- ### Club information section
+    - Text 
+![Club information section](assets/images/readme_images/infoboxes.png)
+
+- ### Link boxes
+    - Text
+![Link boxes](assets/images/readme_images/linksboxes.png)
+
+- ### The Footer
+    - Text 
+![The Footer](assets/images/readme_images/footer.png)
+
+- ### The Facilities page
+    - Text 
+![The Facilities page](assets/images/readme_images/facilities.png)
+
+- ### The Booking page
+    - Text 
+![The Booking page](assets/images/readme_images/booking.png)
 
 
 ## Technologies Used
