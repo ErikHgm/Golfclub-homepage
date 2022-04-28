@@ -9,6 +9,8 @@
 
 html,
 body {
+    max-width:1200px;
+    margin: 0 auto;
     overflow-x: hidden;
     overflow-y: auto;
     font-family: 'kalam', cursive;
@@ -29,6 +31,7 @@ h2 {
 /* header and logo */
 header {
     width: 100%;
+    max-width: 1200px;
     height: 80px;
     background-color: black;
     position: fixed;
