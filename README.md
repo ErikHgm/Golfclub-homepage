@@ -50,6 +50,10 @@ This is a website made for a golf club called Los Naranjos in southern Spain. Th
      - Was used for all storing and backup of the code pertaining to the project. 
 
 ## Testing
+-   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+    - No errors or warnings was shown
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
+    - No errors or warnings was shown
 
 
 
