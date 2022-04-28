@@ -51,9 +51,10 @@ This is a website made for a golf club called Los Naranjos in southern Spain. Th
 
 ## Testing
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
-    - No errors or warnings was shown
+    - No errors or warnings was shown - [Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Ferikhgm.github.io%2FGolfclub-homepage%2Findex.html)
+
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
-    - No errors or warnings was shown
+    - No errors or warnings was shown - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ferikhgm.github.io%2FGolfclub-homepage%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
 
 
@@ -87,9 +88,17 @@ This is a website made for a golf club called Los Naranjos in southern Spain. Th
 ### Forking the GitHub Repository
 
 
-### Making a Local Clone
+### Running the project locally
+1. Go to [the project repository](https://github.com/ErikHgm/Golfclub-homepage)
+2. Click on the "Code" button.
+3. Choose one of the three options (HTTPS, SSH or GitHub CLI) and then click copy.
+4. Open the terminal in you IDE program. 
+5. Type git clone and paste the URL that was copied in step 3.
+6. Press Enter and the local clone will be created. 
 
-
+#### Alternatively by using Gitpod:
+1. Go to [the project repository](https://github.com/ErikHgm/Golfclub-homepage)
+2. Click the green button that says "Gitpod" and the project will now open up in Gitpod.
 
 ## Credits
 
