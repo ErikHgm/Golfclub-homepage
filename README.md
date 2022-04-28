@@ -2,7 +2,7 @@
 
 ![Screen Mockup](assets/images/screenmockups.png)
 
-This is a website made for a golf club called Los Naranjos in southern Spain. The main goal for this website is to inspire new and active golfers to play at the club and for the club to be able to effectively market itself online and showcase its various options of amenities, accommodations and practice areas towards those who are interested to play golf. It also has the convenience built in so that golfers can make their reservation and book a start time themselves online.  
+This website is the homepage for a golfclub called Los Naranjos in southern Spain. The main goal for this website is to inspire both new and active golfers to play at the club and for the club to be able to effectively market itself online and showcase its various options of amenities, accommodations and practice areas towards those who are interested to play golf. It also has the convenience built in so that golfers can make their reservation and book a start time by themselves online.  
 
 [View the live website here.](https://erikhgm.github.io/Golfclub-homepage/index.html)
 
@@ -113,17 +113,25 @@ For deployment of the project, I used GitHub Pages by following the below steps:
 ## Credits
 
 ### Code
-
-
+- The zoom effect on hover for the imagelinks on the frontpage comes from [W3Schools](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 
 ### Content
+- The text on the front page was written by myself.
+- The text in the facilities page comes from the website of the Los Najaros Golfclub.
 
 
 
 ### Media
-
+- The images in the facilities page comes from the website of the Los Naranjos Golfclub.
+- The right image in the front page infoboxes section comes from the website of the Los Naranjos Golfclub.
+- The rest of the images on the front page comes from [Unsplash](https://www.unsplash.com) 
+- The background image in the booking page comes from [Unsplash](https://www.unsplash.com) 
 
 
 ### Acknowledgements
+I would like to thank: 
+- The tutor support team att Code Institute for their support.
+- My Code Institute Mentor for feedback and suggestions.
+
 
 
