@@ -32,28 +32,40 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 
 
 - ### Header and Navigation Bar
-    - Text 
+    - The header and navigation bar is featured on all three pages for easy navigation and is fully responsive. It is also sticky on top of the page at all times which add to the ease of use in that you do not have to scroll back up to find the navigation links. It includes links to the Home page, Facilities page and the Booking page.
+    - The transparent design provides a touch of a premium feel to it which is how the golfclub aims to market itself to its target audience. 
+
 ![Header and navigation](assets/images/readme_images/header.png)
 
-- ### Hero image
-    - Text 
+- ### Landing page image
+    - When the customers enter the site this section is the first part of the website that will grab their attention. It shows an example of how one of the courses looks like with its beautiful scenery.
+    - The hero image provides an inspiring and motivating introduction and it is important for the club to inspire its visitors in order to increase the customerbase.
+
 ![Hero image](assets/images/readme_images/hero.png)
 
 
 - ### Welcome sign
-    - Text 
+    - The Welcome sign encourage the user to keep scrolling down the page and welcomes the user in a nice way. 
+    - It incorporates a premium design in order to attract the target audience in mind. 
+
 ![Welcome sign](assets/images/readme_images/welcomesign.png)
 
 - ### Club information section
-    - Text 
+    - The club info section provides the most important information to the user in a quick and easy way. 
+    - It includes information that you as a golfer is interested in, such as the various facilities at the club, the length and difficulty of the course. Beautiful images illustrates the information and provide even more inspiration to the user. 
+
 ![Club information section](assets/images/readme_images/infoboxes.png)
 
 - ### Link boxes
-    - Text
+    - The link boxes provides extra motivation and curiosity for the users to continue to explore the other pages of site.
+    - The links are interactive and expand when the user hovers over them to make them more engaging for the user. 
+
 ![Link boxes](assets/images/readme_images/linksboxes.png)
 
 - ### The Footer
-    - Text 
+    - The Footer includes all the social networks links that belongs to the golfclub. They will open in a new tab for easy navigation. 
+    - The links play an important part in order to increase the fanpage in socal media sites and create value for the user to stay connected to the club.
+
 ![The Footer](assets/images/readme_images/footer.png)
 
 - ### The Facilities page
