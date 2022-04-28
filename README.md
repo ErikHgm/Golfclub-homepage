@@ -1,5 +1,6 @@
 <h1 align="center">Los Naranjos Golfclub Homepage</h1>
-<h2 align="center"><img src="assets/images/screenmockups.png"></h2>
+
+![Screen Mockup](assets/images/screenmockups.png)
 
 
 [View the live website here.](https://erikhgm.github.io/Golfclub-homepage/index.html)
