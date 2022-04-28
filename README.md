@@ -82,10 +82,20 @@ This is a website made for a golf club called Los Naranjos in southern Spain. Th
 ## Deployment
 
 ### GitHub Pages
+For deployment of the project, I used GitHub Pages by following the below steps:
 
+1. Go to [the project repository](https://github.com/ErikHgm/Golfclub-homepage)
+2. Click the "Settings" button on the menu inside the repository.
+3. Click the "Pages" button on the left hand menu.
+4. In the dropdown menu in the Source section, select the Main branch.
+5. Now the page will refresh automatically.
+6. Wait until the link above the source section shows "Your site is published at (URL)". 
 
 
 ### Forking the GitHub Repository
+1. Go to [the project repository](https://github.com/ErikHgm/Golfclub-homepage)
+2. In the right most top menu, click the "Fork" button.
+3. There will now be a copy of the repository in your own GitHub account.
 
 
 ### Running the project locally
