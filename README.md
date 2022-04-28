@@ -35,11 +35,19 @@ This is a website made for a golf club called Los Naranjos in southern Spain. Th
 ## Technologies Used
 
 ### Languages Used
-
+ - [HTML5](https://en.wikipedia.org/wiki/HTML5)
+ - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 
 ### Frameworks, Libraries & Programs Used
-
+ - [Google Fonts:](https://fonts.google.com/)
+    - Used for all fonts throughout the website by import to the style.css file.
+ - [Font Awesome:](https://fontawesome.com/)
+    - Is used for the social media icons in the footer on all pages. 
+ - [Git](https://git-scm.com/)
+    - Git was used for version control through the Gitpod terminal to commit and push to GitHub
+ - [GitHub:](https://github.com/)
+     - Was used for all storing and backup of the code pertaining to the project. 
 
 ## Testing
 
@@ -94,6 +102,5 @@ This is a website made for a golf club called Los Naranjos in southern Spain. Th
 
 
 ### Acknowledgements
-<ul>
-<li> ivrenrez</li>
+
 
