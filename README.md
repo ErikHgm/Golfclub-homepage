@@ -22,7 +22,26 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
         
 
 -   ### Design
+    - Color Scheme
+    For the color scheme I decided to go with the below colors which focus on elegance and exclusivity which is how the club aims to market itself to its intended target audience.  
     
+
+
+     ![Pallette](assets/images/readme_images/colorscheme.png)
+
+    - Typography 
+
+    The main font used throughout the site for text is the font Kalam, with a fallback font of Cursive in case the font isn't imported correctly for any reason. The Kalam font is appealing and attractive looking font that matches well with the Charm font used for the logotype.  
+
+     ![kalam](assets/images/readme_images/kalam_font.png) 
+
+     For the logo font I choose to used the Charm font for its exquisite style.
+
+     ![charm](assets/images/readme_images/charm_font.png)
+    - Imagery 
+
+    The imagery has been carefully chosen in order to serve the purposes of both describing how the venue looks like and at the same time inspire new and current golfers to visit and start playing at the club. 
+   
 
 ## Existing Features
 
