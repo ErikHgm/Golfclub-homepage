@@ -13,102 +13,108 @@
 
 <body>
     <header>
-        <div id="logo">
-            <a href="index.html">
-                <h1>Los Naranjos GC</h1>
-            </a>
-        </div>
-        <div id="navbar">
-            <nav>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="facilities.html">Facilities</a></li>
-                    <li><a href="booking.html" class="navactive">Booking</a></li>
-                </ul>
-            </nav>
+        <div id="logo-navbar-container">
+            <div id="logo">
+                <a href="index.html">
+                    <h1>Los Naranjos GC</h1>
+                </a>
+            </div>
+            <div id="navbar">
+                <nav>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="facilities.html">Facilities</a></li>
+                        <li><a href="booking.html" class="navactive">Booking</a></li>
+                    </ul>
+                </nav>
+            </div>
         </div>
     </header>
+    <div id="wrapper">
+        <section id="form-section">
+            <div id="form-container">
+                <form method="post" action="https://formdump.codeinstitute.net/">
+                    <fieldset>
+                        <legend>Booking Details</legend>
+                        <label for="fname">First Name</label>
+                        <input type="text" id="fname" placeholder="First Name" name="fname">
+                        <label for="lname">Last Name</label>
+                        <input type="text" id="lname" placeholder="Last Name" name="lname">
 
-    <section id="form-section">
-        <div id="form-container">
-            <form method="post" action="https://formdump.codeinstitute.net/">
-                <fieldset>
-                    <legend>Booking Details</legend>
-                    <label for="fname">First Name</label>
-                    <input type="text" id="fname" placeholder="First Name" name="fname">
-                    <label for="lname">Last Name</label>
-                    <input type="text" id="lname" placeholder="Last Name" name="lname">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" placeholder="Email" name="email">
+                        <label for="date">Start Date</label>
+                        <input type="date" id="date" name="startdate">
+                        <label for="time">Start Time</label>
+                        <input type="time" id="time" name="starttime">
+                        <label for="players">Number of players:</label>
+                        <select id="players">
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                        </select>
 
-                    <label for="email">Email</label>
-                    <input type="email" id="email" placeholder="Email" name="email">
-                    <label for="date">Start Date</label>
-                    <input type="date" id="date" name="startdate">
-                    <label for="time">Start Time</label>
-                    <input type="time" id="time" name="starttime">
-                    <label for="players">Number of players:</label>
-                    <select id="players">
-                        <option>1</option>
-                        <option>2</option>
-                        <option>3</option>
-                        <option>4</option>
-                    </select>
-
-                    <input type="submit" value="Book!">
-                </fieldset>
-            </form>
-        </div>
-    </section>
+                        <input type="submit" value="Book!">
+                    </fieldset>
+                </form>
+            </div>
+        </section>
 
 
 
-    <footer>
-        <div class="contact">
-            <p>
-                <br>
-                Address:
-                <br>
-                <span>de Cibeles, S/N, 29660 29601 Marbella (Málaga) España</span>
-            </p>
-        </div>
-        <div class="contact">
-            <p>
-                Opening hours:
-                <br>
-                <span>Clubhouse: 09:00 - 17:00</span>
-                <br>
-                <span> Restaurant: 08:00 - 20:00</span>
-            </p>
-        </div>
-        <div class="contact">
-            <p>
-                Contact:
-                <br>
-                <span>Club: +34 952 81 24 28</span>
-                <br>
-                <span>Restaurant: +34 952 63 91 11</span>
-            </p>
-        </div>
-        <ul id="social-links">
-            <li>
-                <a href="http://www.facebook.com" target="_blank" rel="noopener"
-                    aria-label="Join our Facebookpage (opens in a new tab)"><i class="fa-brands fa-facebook-f"></i></a>
-            </li>
-            <li>
-                <a href="http://www.twitter.com" target="_blank" rel="noopener"
-                    aria-label="Join our Twitterpage (opens in a new tab)"><i class="fa-brands fa-twitter"></i></a>
-            </li>
-            <li>
-                <a href="http://www.youtube.com" target="_blank" rel="noopener"
-                    aria-label="Join our Youtubechannel (opens in a new tab)"><i class="fa-brands fa-youtube"></i></a>
-            </li>
-            <li>
-                <a href="http://www.instagram.com" target="_blank" rel="noopener"
-                    aria-label="Join our Instagrampage (opens in a new tab)"><i class="fa-brands fa-instagram"></i></a>
-            </li>
-        </ul>
-    </footer>
-    <!-- script for font awesome-->
-    <script src="https://kit.fontawesome.com/d2d5fe6d3e.js" crossorigin="anonymous"></script>
+        <footer>
+            <div class="contact">
+                <p>
+                    <br>
+                    Address:
+                    <br>
+                    <span>de Cibeles, S/N, 29660 29601 Marbella (Málaga) España</span>
+                </p>
+            </div>
+            <div class="contact">
+                <p>
+                    Opening hours:
+                    <br>
+                    <span>Clubhouse: 09:00 - 17:00</span>
+                    <br>
+                    <span> Restaurant: 08:00 - 20:00</span>
+                </p>
+            </div>
+            <div class="contact">
+                <p>
+                    Contact:
+                    <br>
+                    <span>Club: +34 952 81 24 28</span>
+                    <br>
+                    <span>Restaurant: +34 952 63 91 11</span>
+                </p>
+            </div>
+            <ul id="social-links">
+                <li>
+                    <a href="http://www.facebook.com" target="_blank" rel="noopener"
+                        aria-label="Join our Facebookpage (opens in a new tab)"><i
+                            class="fa-brands fa-facebook-f"></i></a>
+                </li>
+                <li>
+                    <a href="http://www.twitter.com" target="_blank" rel="noopener"
+                        aria-label="Join our Twitterpage (opens in a new tab)"><i class="fa-brands fa-twitter"></i></a>
+                </li>
+                <li>
+                    <a href="http://www.youtube.com" target="_blank" rel="noopener"
+                        aria-label="Join our Youtubechannel (opens in a new tab)"><i
+                            class="fa-brands fa-youtube"></i></a>
+                </li>
+                <li>
+                    <a href="http://www.instagram.com" target="_blank" rel="noopener"
+                        aria-label="Join our Instagrampage (opens in a new tab)"><i
+                            class="fa-brands fa-instagram"></i></a>
+                </li>
+            </ul>
+        </footer>
+        <!-- script for font awesome-->
+        <script src="https://kit.fontawesome.com/d2d5fe6d3e.js" crossorigin="anonymous"></script>
+    </div>
 </body>
 
 </html>

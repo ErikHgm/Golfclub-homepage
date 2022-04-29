@@ -9,8 +9,6 @@
 
 html,
 body {
-    max-width: 1200px;
-    margin: 0 auto;
     overflow-x: hidden;
     overflow-y: auto;
     font-family: 'kalam', cursive;
@@ -30,13 +28,17 @@ h2 {
 /* header and logo */
 header {
     width: 100%;
-    max-width: 1200px;
     height: 80px;
     background-color: black;
     position: fixed;
     top: 0;
     opacity: 0.8;
     z-index: 1;
+}
+
+#logo-navbar-container {
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 #logo {
@@ -87,6 +89,12 @@ header {
 
 .navactive {
     border-bottom: 1px solid whitesmoke;
+}
+
+/* wrapper */
+#wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 /* hero section */
@@ -317,16 +325,19 @@ footer {
     height: auto;
     background-color: #1F1F1F;
 }
-.contact{
+
+.contact {
     margin: 10px auto;
     text-align: center;
     color: #BEB279;
     font-size: 1.3em;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-.contact span{
+
+.contact span {
     font-size: 0.9em;
 }
+
 #social-links {
     margin: 0 auto;
     text-align: center;
