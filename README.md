@@ -11,14 +11,20 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 -   ### User stories
 
     -   #### First Time Visitor Goals
+        As a first time visitor I expect to find basic information about the length etc of the golfcourse at Los Naranjos.  
+        As a first time visitor I expect to find information about what type of amenities and facilities the club offers.  
+        As a first time visitor I expect to find information about the adress and opening hours of the club.  
+        As a first time visitor I want to easily find what I am looking for and be able to navigate quickly throughout the site.
 
-        
-
+      
     -   #### Returning Visitor Goals
+        As a returning user I expect to be able to connect with the club on social media so that I can stay updated on what is happening at the club.
 
         
 
     -   #### Frequent User Goals
+        As frequent user I expect to easily make a reservation for my next round at the golfcourse. 
+
         
 
 -   ### Design
@@ -187,7 +193,7 @@ For deployment of the project, I used GitHub Pages by following the below steps:
 ### Content
 - The text on the front page infoboxes was written by myself.
 - The text in the facilities page comes from the website of the Los Najaros Golfclub.
-- The name and contactinformation comes from the Los Naranjons golfclub. 
+- The name and contact information comes from the Los Naranjons golfclub. 
 
 
 
