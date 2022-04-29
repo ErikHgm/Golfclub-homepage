@@ -101,7 +101,7 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
     - No errors or warnings was shown - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ferikhgm.github.io%2FGolfclub-homepage%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
-
+- The font color combinations were tested with Adobe color to check contrast levels for accessibility purposes.
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -148,7 +148,7 @@ For deployment of the project, I used GitHub Pages by following the below steps:
 2. Click on the "Code" button.
 3. Choose one of the three options (HTTPS, SSH or GitHub CLI) and then click copy.
 4. Open the terminal in you IDE program. 
-5. Type git clone and paste the URL that was copied in step 3.
+5. Type `git clone` and paste the URL that was copied in step 3.
 6. Press Enter and the local clone will be created. 
 
 #### Alternatively by using Gitpod:
