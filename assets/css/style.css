@@ -28,7 +28,7 @@ h2 {
 /* header and logo */
 header {
     width: 100%;
-    height: 80px;
+    height: 60px;
     background-color: black;
     position: fixed;
     top: 0;
@@ -44,7 +44,7 @@ header {
 #logo {
     float: left;
     margin-left: 20px;
-    line-height: 80px;
+    line-height: 60px;
     letter-spacing: 0.1em;
 }
 
@@ -60,7 +60,7 @@ header {
 /* navigation menu */
 #navbar {
     float: right;
-    line-height: 80px;
+    line-height: 60px;
     margin-right: 20px;
 }
 
