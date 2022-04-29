@@ -24,10 +24,6 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 -   ### Design
    
 
-*   ### Wireframes
-
-  
-
 ## Existing Features
 
 
@@ -69,11 +65,15 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 ![The Footer](assets/images/readme_images/footer.png)
 
 - ### The Facilities page
-    - Text 
+    - In the Facilities page the user can see more information about the various facilities that the club offers.
+    - Pictures included provide a good overview and feel for the atmosphere at the club.
+
 ![The Facilities page](assets/images/readme_images/facilities.png)
 
 - ### The Booking page
-    - Text 
+    - Here the user is able to conveniently book a start time at the course if they decided to play. For the user this is of good value as they do not need to manually contact the club in order to book a time.
+    - For the club it potentially increases the amount of players that play on the course. 
+
 ![The Booking page](assets/images/readme_images/booking.png)
 
 
@@ -100,7 +100,7 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) 
     - No errors or warnings was shown - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ferikhgm.github.io%2FGolfclub-homepage%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
-    
+
 - [Adobe Color](https://color.adobe.com/create/color-contrast-analyzer)
     - The font color combinations were tested with Adobe color to check contrast levels for accessibility purposes.
 
