@@ -164,6 +164,8 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 |Bug | Solution | Status |
 |----|:---------|:-------|
 |Images in the Facilities page covered the text| Add the height property to each image instead of the class | Fixed |
+|Images in the linkboxes on main page not scaling correctly| Add the image as background instead | Fixed |
+|Images in the Facilities page covered the text| Add the height property to each image instead of the class | Fixed |
 
 
 
