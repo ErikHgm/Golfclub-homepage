@@ -22,7 +22,7 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
         
 
 -   ### Design
-   
+    
 
 ## Existing Features
 
@@ -123,6 +123,10 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 
 
 ### Known Bugs
+|Bug | Solution | Status |
+|----|:---------|:-------|
+|Images in the Facilities page covered the text| Add the height property to each image instead of the class | Fixed |
+
 
 
 
