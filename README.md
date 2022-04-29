@@ -185,9 +185,9 @@ For deployment of the project, I used GitHub Pages by following the below steps:
 - The zoom effect on hover for the imagelinks on the frontpage comes from [W3Schools](https://www.w3schools.com/cssref/css3_pr_transform.asp)
 
 ### Content
-- The text on the front page was written by myself.
+- The text on the front page infoboxes was written by myself.
 - The text in the facilities page comes from the website of the Los Najaros Golfclub.
-- The name comes from the Los Naranjons golfclub. 
+- The name and contactinformation comes from the Los Naranjons golfclub. 
 
 
 
