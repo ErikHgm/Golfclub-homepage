@@ -157,6 +157,11 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 
 
 ### Further Testing
+-   The website has been thoroughly tested on different browsers including Google Chrome, Internet Explorer, Safar and Microsoft Edge.
+-   Extensive testing was performed to make sure all the links and navigation work properly.
+-   Testing on different devices to make sure it scales properly using the below tools:
+    -   [Responsivetesttool](http://responsivetesttool.com/)
+    -   [Google Devtools](https://developer.chrome.com/docs/devtools/open/)
 
 
 
@@ -165,7 +170,6 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 |----|:---------|:-------|
 |Images in the Facilities page covered the text| Add the height property to each image instead of the class | Fixed |
 |Images in the linkboxes on main page not scaling correctly| Add the image as background instead | Fixed |
-|Images in the Facilities page covered the text| Add the height property to each image instead of the class | Fixed |
 
 
 
