@@ -34,16 +34,16 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
     #6E6434
     #1F1F1F 
 
-        ![Pallette](assets/images/readme_images/colorscheme.png)
+      ![Pallette](assets/images/readme_images/colorscheme.png)
 
     - Typography  
     The main font used throughout the site for text is the font Kalam, with a fallback font of Cursive in case the font isn't imported correctly for any reason. The Kalam font is appealing and attractive looking font that matches well with the Charm font used for the logotype.
 
 
-     ![kalam](assets/images/readme_images/kalam_font.png) 
+        ![kalam](assets/images/readme_images/kalam_font.png) 
 
 
-     ![charm](assets/images/readme_images/charm_font.png)
+        ![charm](assets/images/readme_images/charm_font.png)
     - Imagery  
         The imagery has been carefully chosen in order to serve the purposes of both describing how the venue looks like and at the same time inspire new and current golfers to visit and start playing at the club. 
    
@@ -132,14 +132,28 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 ### Testing User Stories from User Experience (UX) Section
 
 -   #### First Time Visitor Goals
+    -   As a first time visitor I expect to find basic information about the length etc of the golfcourse at Los Naranjos.  
+        -   grt
+    -   As a first time visitor I expect to find information about what type of amenities and facilities the club offers.  
+        - rgrtg
+    -   As a first time visitor I expect to find information about the adress and opening hours of the club.  
+        - grtgrt
+    -   As a first time visitor I want to easily find what I am looking for and be able to navigate quickly throughout the site.
+        - grtgr
+
 
 
 
 -   #### Returning Visitor Goals
+    - As a returning user I expect to be able to connect with the club on social media so that I can stay updated on what is happening at the club.
+        -   As a returning visitor interested in connecting more with the club, the user can navigate to the social media links that opens a new tab. The social media section includes links to the club's fanpage on Facebook, Twitter, Instagram and Youtube.
 
     
 
 -   #### Frequent User Goals
+    - As frequent user I expect to easily make a reservation for my next round at the golfcourse. 
+        -   When entering the site, users can easily navigate to the booking page in just on click and fillout their booking information. 
+
 
 
 ### Further Testing
@@ -192,8 +206,8 @@ For deployment of the project, I used GitHub Pages by following the below steps:
 
 ### Content
 - The text on the front page infoboxes was written by myself.
-- The text in the facilities page comes from the website of the Los Najaros Golfclub.
-- The name and contact information comes from the Los Naranjons golfclub. 
+- The text in the facilities page comes from the website of the [Los Naranjons golfclub](https://losnaranjos.com/en/).
+- The name and contact information comes from the website of the [Los Naranjons golfclub](https://losnaranjos.com/en/). 
 
 
 
