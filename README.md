@@ -163,6 +163,7 @@ For deployment of the project, I used GitHub Pages by following the below steps:
 ### Content
 - The text on the front page was written by myself.
 - The text in the facilities page comes from the website of the Los Najaros Golfclub.
+- The name comes from the Los Naranjons golfclub. 
 
 
 
