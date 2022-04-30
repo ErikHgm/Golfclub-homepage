@@ -133,13 +133,16 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 
 -   #### First Time Visitor Goals
     -   As a first time visitor I expect to find basic information about the length etc of the golfcourse at Los Naranjos.  
-        -   grt
+        -   Upon entering the site, the user will directly be able to see the most important information about the course in the club info box section on the main page. 
     -   As a first time visitor I expect to find information about what type of amenities and facilities the club offers.  
-        - rgrtg
-    -   As a first time visitor I expect to find information about the adress and opening hours of the club.  
-        - grtgrt
+        - When the user enters the site, the information about the club and its amenities and facilities is displayed immediately to the user in the club info box section.  
+        - The information is available to the user without having to click on a link to go to a different page to find the information.
+        - For more in depths information the user can click on the facilities link, or scroll to the image links and go to the information page. 
+    -   As a first time visitor I expect to find information about the address and opening hours of the club.  
+        -  It is expected for this kind of information to be found in the footer by the users. The user can scroll down to the footer section of the page and find the related information about the club. 
     -   As a first time visitor I want to easily find what I am looking for and be able to navigate quickly throughout the site.
-        - grtgr
+        - The layout of the website is planned so it is easy and quick to find information and to navigate throughout the pages.
+        - The header sticks to the top of the page so that the navigation bar is visible at all times.
 
 
 
@@ -152,7 +155,7 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 
 -   #### Frequent User Goals
     - As frequent user I expect to easily make a reservation for my next round at the golfcourse. 
-        -   When entering the site, users can easily navigate to the booking page in just on click and fillout their booking information. 
+        -   When entering the site, users can easily navigate to the booking page in just on click and fill out their booking information. 
 
 
 
