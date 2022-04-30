@@ -224,8 +224,8 @@ For deployment of the project, I used GitHub Pages by following the below steps:
 
 
 ### Media
-- The images in the facilities page comes from the website of the Los Naranjos Golfclub.
-- The right image in the front page infoboxes section comes from the website of the Los Naranjos Golfclub.
+- The images in the facilities page comes from the website of the [Los Naranjons golfclub](https://losnaranjos.com/en/)
+- The right image in the front page infoboxes section comes from the website of the [Los Naranjons golfclub](https://losnaranjos.com/en/).
 - The rest of the images on the front page comes from [Unsplash](https://www.unsplash.com) 
 - The background image in the booking page comes from [Unsplash](https://www.unsplash.com) 
 
