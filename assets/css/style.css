@@ -305,6 +305,7 @@ select {
     font-size: 1em;
     background: transparent;
     color: whitesmoke;
+    box-sizing: border-box;
 }
 
 input[type=submit] {
