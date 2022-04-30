@@ -165,7 +165,7 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 -   Testing on different devices to make sure it scales properly using the below tools:
     -   [Responsivetesttool](http://responsivetesttool.com/)
     -   [Google Devtools](https://developer.chrome.com/docs/devtools/open/)
-
+- I have tested and confirmed that the functionality of the form section is working as intended and that they are set so information is required in order to make a booking.
 
 
 ### Known Bugs
