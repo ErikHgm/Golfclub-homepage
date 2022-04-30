@@ -290,7 +290,7 @@ form {
 }
 
 fieldset {
-    margin: 0 60px 0 40px;
+    margin: 0 40px;
 }
 
 legend {
@@ -447,5 +447,14 @@ footer {
         #form-container {
             width: 80%;
         }
+    }
+    @media screen and (max-width: 500px){
+        #form-container {
+            width: 100%;
+        }
+        fieldset {
+            margin: 0 25px;
+        }
+        
     }
 }
