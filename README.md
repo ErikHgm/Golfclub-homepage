@@ -170,7 +170,8 @@ This website is the homepage for a golfclub called Los Naranjos in southern Spai
 |----|:---------|:-------|
 |Images in the Facilities page covered the text| Add the height property to each image instead of the class | Fixed |
 |Images in the linkboxes on main page not scaling correctly| Add the image as background instead | Fixed |
-|Headings in the linkboxes on main page not scaling correctly on small devices| Reduced font size for small devices | Fixed |
+|Headings in the linkboxes on main page not scaling correctly on small devices| Reduced font size for small devices | Fixed | 
+|The submit button and select field not having the same width as the other input fields| Added box-sizing property to input and submit selector| Fixed |
 
 
 
